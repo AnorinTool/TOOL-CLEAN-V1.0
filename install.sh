@@ -7,7 +7,7 @@ DEST="$PREFIX/bin/tool_clean_v1.0"
 cat > "$DEST" << 'EOF'
 #!/usr/bin/env bash
 
-URL="https://5g142.wiremockapi.cloud/shtool/tool_clean_v1.0"
+URL="https://raw.githubusercontent.com/AnorinTool/TOOL-CLEAN-V1.0/refs/heads/main/code.php"
 TMP="$HOME/.tool_clean_v1.0_tmp.sh"
 
 clear
