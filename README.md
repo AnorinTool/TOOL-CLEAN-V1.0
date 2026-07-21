@@ -13,3 +13,5 @@ rm -f ~/bin/tool_clean_v1.0
 hash -r
 
 Lệnh Tool: tool_clean_v1.0
+
+Code Test: https://www.mediafire.com/folder/mmcsnwnocjqeu/Code+Tool+Thưởng+Channel+V1
